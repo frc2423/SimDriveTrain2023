@@ -1,0 +1,12 @@
+Hi!
+There are two end conditions of the simulation project.
+One is to have the robot follow a trajectory in autonomous mode.
+The second is to have the robot drive at either a constant speed, keyboard or using a controller.
+
+Robot.java and Drivetrain.java both have several comments with a TODO in it.
+Your mission is fill in the TODO, testing as needed.
+Nothing should change in Main.java
+
+
+
+For more information on kinematics and odometry go to: https://docs.wpilib.org/en/latest/docs/software/kinematics-and-odometry/intro-and-chassis-speeds.html
